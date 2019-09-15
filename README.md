@@ -1,2 +1,3 @@
 # Grocery-App
-An application using features of Angular JS including bootstrap layouts, filters, list routing, setting parameters, and two-way data binding
+Utilized features of bootstrap layouts, filters, list routing, and two-way data binding, for developing an
+application to check, uncheck, add, delete and update an item list
